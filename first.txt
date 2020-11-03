@@ -3,3 +3,4 @@ gitの練習をしていきます。
 git add
 git commit
 また変更してみるよ
+git rmを習った
